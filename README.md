@@ -1,3 +1,5 @@
+The Access Token expires on Jan 6th 2024
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
